@@ -41,16 +41,19 @@ This stack provides a full JavaScript environment, enabling efficient developmen
 ![image](https://github.com/user-attachments/assets/a3a1de43-0c2f-4570-b8db-a9781577b27f)
 
 ## Installation and Running the Project
-
+   ```bash
 npm install
 npm run build
 then go lto http://localhost:5000/ and register and login
+   ```
 **Another Libaries Install**
+   ```bash
 npm install react-game-kit
 npm install phaser
 npm install chess.js react-chessboard
 npm install matter-js
 npm install stockfish
+   ```
 ### Prerequisites
 Make sure you have Node.js and npm installed. Download them from [Node.js official website](https://nodejs.org/).
 here we use mongodb atlas web server you can install it own device if you want.
