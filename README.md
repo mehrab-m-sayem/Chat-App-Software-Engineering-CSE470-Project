@@ -42,6 +42,9 @@ This stack provides a full JavaScript environment, enabling efficient developmen
 
 ## Installation and Running the Project
    ```bash
+npm install tailwindcss
+npx tailwindcss init
+npm install daisyui
 npm install
 npm run build
 then go lto http://localhost:5000/ and register and login
