@@ -1,9 +1,9 @@
 # BRACU CHATAPP
 ## Group Members:
-Md Mostafijur Rahman
-Mehrab Muhtasim Sayem
-Subha Chowdhury
-Naimur Rahman
+- Md Mostafijur Rahman
+- Mehrab Muhtasim Sayem
+- Subha Chowdhury
+- Naimur Rahman
 ## Overview
 BRACU CHATAPP is a real-time messaging application designed specifically for BRAC University community members. It enables users to engage in one-on-one chats, manage their profiles, share media, switch between light and dark themes, and enjoy integrated games like DX Ball, Racing, and Chess.
 
